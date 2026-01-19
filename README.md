@@ -1,6 +1,6 @@
 # Hey there! 👋 I'm Gading  
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7AB0A&width=435&lines=Hi%2C+I'm+Gading!;Web+Developer+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=429EF7FF&width=435&lines=Hi%2C+I'm+Gading!;Web+Developer+Enthusiast)](https://git.io/typing-svg)
 
 💡 Passionate about building web experiences.  
 🌱 Currently exploring **React.js, and UI/UX design**.  
