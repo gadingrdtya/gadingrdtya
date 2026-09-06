@@ -1,6 +1,6 @@
 # Hey there! 👋 I'm Gading  
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=429EF7FF&width=435&lines=Hi%2C+I'm+Gading!;Web+Developer+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=429EF7FF&width=435&lines=Hi%2C+I'm+Gading!;Full-Stack+Web+Developer;React.js+%26+Mobile+Enthusiast)](https://git.io/typing-svg)
 
 💡 Passionate about building end-to-end digital solutions and web experiences.  
 🌱 Currently exploring **React.js, Node.js, Flutter, and UI/UX design**.  
@@ -23,7 +23,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gadingrdtya&layout=compact&theme=tokyonight&cache_seconds=1)
+![Top Langs][https://github-readme-streak-stats.herokuapp.com](https://github-readme-streak-stats.herokuapp.com)
 
 ---
 
