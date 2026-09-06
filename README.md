@@ -2,9 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=429EF7FF&width=435&lines=Hi%2C+I'm+Gading!;Web+Developer+Enthusiast)](https://git.io/typing-svg)
 
-💡 Passionate about building web experiences.  
-🌱 Currently exploring **React.js, and UI/UX design**.  
-🎯 Goal: Grow as a web developer.   
+💡 Passionate about building end-to-end digital solutions and web experiences.  
+🌱 Currently exploring **React.js, Node.js, Flutter, and UI/UX design**.  
+🎯 Goal: Grow as a versatile software developer. 
 
 ---
 
@@ -17,6 +17,8 @@
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
 ---
 
@@ -26,5 +28,6 @@
 ---
 
 ## 🌍 Find me around the web
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white)](https://gadingrdtya.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gadingraditya/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gadingradityaa/)
