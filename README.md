@@ -23,7 +23,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Top Langs][https://github-readme-streak-stats.herokuapp.com](https://github-readme-streak-stats.herokuapp.com)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gadingrdtya&layout=compact&theme=tokyonight&cache_seconds=1)
 
 ---
 
