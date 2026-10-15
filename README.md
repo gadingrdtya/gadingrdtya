@@ -103,14 +103,6 @@
 
 ---
 
-### Weekly Coding Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=gadingrdtya&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Stats" width="60%" />
-</div>
-
----
-
 ### Contribution Snake
 
 <div align="center">
