@@ -1,6 +1,10 @@
 <div align="center">
 
-# Hi, I'm Gading Raditya Pratama 
+<img src="https://raw.githubusercontent.com/gadingrdtya/gadingrdtya/main/banner.webp" alt="Gading Raditya Pratama Banner" width="100%" />
+
+<br /><br />
+
+# Hi, I'm Gading Raditya Pratama 👋
 ### Full-Stack Software Engineer & Creative Developer
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=F59E0B&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;React.js+%26+Next.js+Specialist;Mobile+App+%26+Creative+3D+Builder)](https://git.io/typing-svg)
@@ -95,6 +99,22 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gadingrdtya&theme=tokyonight&hide_border=true" width="97%" />
+</div>
+
+---
+
+### Weekly Coding Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=gadingrdtya&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Stats" width="60%" />
+</div>
+
+---
+
+### Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/gadingrdtya/gadingrdtya/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
 </div>
 
 <br />
